@@ -13,3 +13,4 @@ Hardware used on the project:
    
 7. 4.3 inch LCD display
 8. Passive Speaker
+9. USB Webcam
